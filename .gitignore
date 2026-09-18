@@ -219,3 +219,14 @@ __marimo__/
 
 # Data
 data/
+
+# Streamlit
+app/
+app/pages/
+
+# Harness
+.claude/
+CLAUDE.md
+
+# Red-taped data
+notebooks/magna*.ipynb
